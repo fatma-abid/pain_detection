@@ -1,0 +1,82 @@
+======================================================================
+RAPPORT D'ENTRAÎNEMENT - DÉTECTION DE DOULEUR
+======================================================================
+
+Date: 2025-11-15 12:11:25
+
+1. CONFIGURATION
+----------------------------------------------------------------------
+Dataset: pain_features_complete.csv
+Total images: 886
+Training set: 708
+Test set: 178
+
+2. RÉSULTATS PAR MODÈLE
+----------------------------------------------------------------------
+
+SVM (Linear):
+  Accuracy:  0.7697
+  Precision: 0.7720
+  Recall:    0.7697
+  F1-Score:  0.7660
+  CV Score:  0.7570 ± 0.0283
+
+SVM (RBF):
+  Accuracy:  0.9326
+  Precision: 0.9358
+  Recall:    0.9326
+  F1-Score:  0.9332
+  CV Score:  0.9279 ± 0.0323
+
+Random Forest:
+  Accuracy:  0.9944
+  Precision: 0.9945
+  Recall:    0.9944
+  F1-Score:  0.9944
+  CV Score:  0.9788 ± 0.0045
+
+Gradient Boosting:
+  Accuracy:  0.9775
+  Precision: 0.9775
+  Recall:    0.9775
+  F1-Score:  0.9775
+  CV Score:  0.9732 ± 0.0121
+
+Neural Network:
+  Accuracy:  0.9663
+  Precision: 0.9664
+  Recall:    0.9663
+  F1-Score:  0.9663
+  CV Score:  0.9760 ± 0.0146
+
+KNN:
+  Accuracy:  0.9438
+  Precision: 0.9443
+  Recall:    0.9438
+  F1-Score:  0.9438
+  CV Score:  0.9618 ± 0.0171
+
+Logistic Regression:
+  Accuracy:  0.7416
+  Precision: 0.7381
+  Recall:    0.7416
+  F1-Score:  0.7372
+  CV Score:  0.7034 ± 0.0490
+
+
+3. MEILLEUR MODÈLE
+----------------------------------------------------------------------
+Modèle: Random Forest
+Accuracy: 0.9944
+
+Rapport de Classification:
+              precision    recall  f1-score   support
+
+     Neutral       1.00      1.00      1.00        46
+       Posed       0.98      1.00      0.99        44
+   Algometer       1.00      1.00      1.00        48
+       Laser       1.00      0.97      0.99        40
+
+    accuracy                           0.99       178
+   macro avg       0.99      0.99      0.99       178
+weighted avg       0.99      0.99      0.99       178
