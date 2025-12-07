@@ -302,7 +302,7 @@ if __name__ == "__main__":
     print("=" * 70)
     
     # Configuration
-    dataset_path = r"C:\Users\MSI\Desktop\pain_dataset\Pictures\Modified"
+    dataset_path = r"D:\SUPCOM\Computer_Vision\dataset\Pictures\Modified"
     frame_type_choice = 'Colour frames'  # Le plus recommandé
     
     # Initialisation

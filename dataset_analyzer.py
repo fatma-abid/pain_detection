@@ -233,7 +233,7 @@ class DatasetAnalyzer:
 # Utilisation
 if __name__ == "__main__":
     # Chemin vers votre dataset
-    dataset_path = r"C:\Users\MSI\Desktop\pain_dataset\Pictures\Modified"
+    dataset_path = r"D:\SUPCOM\Computer_Vision\dataset\Pictures\Modified"
     
     # Création de l'analyseur
     analyzer = DatasetAnalyzer(dataset_path)

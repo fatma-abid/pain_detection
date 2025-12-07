@@ -1,24 +1,76 @@
-# Détection Automatique de l'Intensité de Douleur
-# Python 3.8 - 3.11 requis
+# =============================================================================
+# PAIN DETECTION PROJECT - Requirements
+# =============================================================================
+# Install with: pip install -r requirements.txt
+# =============================================================================
 
-# Vision & Deep Learning
-opencv-python==4.10.0.84
-mediapipe==0.10.14
+# -----------------------------------------------------------------------------
+# CORE DEPENDENCIES
+# -----------------------------------------------------------------------------
 
-# Machine Learning
-scikit-learn==1.3.2
-joblib==1.3.2
+# Computer Vision & Face Detection
+opencv-python>=4.8.0
+mediapipe>=0.10.0
 
 # Data Processing
-numpy==1.24.3
-pandas==2.0.3
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+joblib>=1.3.0
 
 # Visualization
-matplotlib==3.7.2
-seaborn==0.12.2
+matplotlib>=3.7.0
+seaborn>=0.12.0
 
-# Interface (optionnel)
-streamlit==1.28.0
+# -----------------------------------------------------------------------------
+# WEB INTERFACE (for app.py)
+# -----------------------------------------------------------------------------
+streamlit>=1.28.0
+Pillow>=10.0.0
 
-# Utilities
-Pillow==10.0.0
+# -----------------------------------------------------------------------------
+# OPTIONAL - For better performance
+# -----------------------------------------------------------------------------
+# opencv-contrib-python>=4.8.0    # Extended OpenCV features
+# scipy>=1.11.0                    # Scientific computing
+
+# =============================================================================
+# INSTALLATION INSTRUCTIONS
+# =============================================================================
+#
+# Option 1: Install all at once
+#   pip install -r requirements.txt
+#
+# Option 2: Install individually (if issues)
+#   pip install opencv-python
+#   pip install mediapipe
+#   pip install numpy pandas
+#   pip install scikit-learn joblib
+#   pip install matplotlib seaborn
+#   pip install streamlit Pillow
+#
+# Option 3: Conda environment
+#   conda create -n pain_detection python=3.10
+#   conda activate pain_detection
+#   pip install -r requirements.txt
+#
+# =============================================================================
+# TROUBLESHOOTING
+# =============================================================================
+#
+# If mediapipe fails:
+#   pip install mediapipe --upgrade
+#
+# If opencv fails:
+#   pip uninstall opencv-python
+#   pip install opencv-python-headless
+#
+# If streamlit fails on Windows:
+#   pip install watchdog
+#
+# For GPU support (optional):
+#   pip install tensorflow>=2.13.0
+#
+# =============================================================================

@@ -181,4 +181,895 @@ S012,Laser Pain,Colour frames,20
 S012,Laser Pain,Colour oval frames,20
 S012,Neutral,BW frames,20
 S012,Neutral,BW oval frames,20
-S012,Neutral,Colour frames,6
+S012,Neutral,Colour frames,20
+S012,Neutral,Colour oval frames,20
+S012,Posed Pain,BW frames,20
+S012,Posed Pain,BW oval frames,20
+S012,Posed Pain,Colour frames,20
+S012,Posed Pain,Colour oval frames,20
+S013,Algometer Pain,BW frames,20
+S013,Algometer Pain,BW oval frames,20
+S013,Algometer Pain,Colour frames,20
+S013,Algometer Pain,Colour oval frames,20
+S013,Laser Pain,BW frames,20
+S013,Laser Pain,BW oval frames,20
+S013,Laser Pain,Colour frames,20
+S013,Laser Pain,Colour oval frames,20
+S013,Neutral,BW frames,20
+S013,Neutral,BW oval frames,20
+S013,Neutral,Colour frames,20
+S013,Neutral,Colour oval frames,20
+S013,Posed Pain,BW frames,20
+S013,Posed Pain,BW oval frames,20
+S013,Posed Pain,Colour frames,20
+S013,Posed Pain,Colour oval frames,20
+S014,Algometer Pain,BW frames,20
+S014,Algometer Pain,BW oval frames,20
+S014,Algometer Pain,Colour frames,20
+S014,Algometer Pain,Colour oval frames,20
+S014,Laser Pain,BW frames,20
+S014,Laser Pain,BW oval frames,20
+S014,Laser Pain,Colour frames,20
+S014,Laser Pain,Colour oval frames,20
+S014,Neutral,BW frames,20
+S014,Neutral,BW oval frames,20
+S014,Neutral,Colour frames,20
+S014,Neutral,Colour oval frames,20
+S014,Posed Pain,BW frames,20
+S014,Posed Pain,BW oval frames,20
+S014,Posed Pain,Colour frames,20
+S014,Posed Pain,Colour oval frames,20
+S015,Algometer Pain,BW frames,20
+S015,Algometer Pain,BW oval frames,20
+S015,Algometer Pain,Colour frames,20
+S015,Algometer Pain,Colour oval frames,20
+S015,Laser Pain,BW frames,20
+S015,Laser Pain,BW oval frames,20
+S015,Laser Pain,Colour frames,20
+S015,Laser Pain,Colour oval frames,20
+S015,Neutral,BW frames,20
+S015,Neutral,Colour frames,20
+S015,Neutral,Colour oval frames,20
+S015,Neutral,ovalo BN,20
+S015,Posed Pain,BW frames,20
+S015,Posed Pain,BW oval frames,20
+S015,Posed Pain,Colour frames,20
+S015,Posed Pain,Colour oval frames,20
+S016,Algometer Pain,BW frames,20
+S016,Algometer Pain,BW oval frames,20
+S016,Algometer Pain,Colour frames,20
+S016,Algometer Pain,Colour oval frames,20
+S016,Laser Pain,BW frames,20
+S016,Laser Pain,BW oval frames,20
+S016,Laser Pain,Colour frames,20
+S016,Laser Pain,Colour oval frames,20
+S016,Neutral,BW frames,20
+S016,Neutral,BW oval frames,20
+S016,Neutral,Colour frames,20
+S016,Neutral,Colour oval frames,20
+S016,Posed Pain,BW frames,20
+S016,Posed Pain,BW oval frames,20
+S016,Posed Pain,Colour frames,20
+S016,Posed Pain,Colour oval frames,20
+S017,Algometer Pain,BW frames,20
+S017,Algometer Pain,BW oval frames,20
+S017,Algometer Pain,Colour frames,20
+S017,Algometer Pain,Colour oval frames,20
+S017,Laser Pain,BW frames,20
+S017,Laser Pain,BW oval frames,20
+S017,Laser Pain,Colour frames,20
+S017,Laser Pain,Colour oval frames,20
+S017,Neutral,BW frames,20
+S017,Neutral,BW oval frames,20
+S017,Neutral,Colour frames,20
+S017,Neutral,Colour oval frames,20
+S017,Posed Pain,BW frames,20
+S017,Posed Pain,BW oval frames,20
+S017,Posed Pain,Colour frames,20
+S017,Posed Pain,Colour oval frames,20
+S018,Algometer Pain,BW frames,20
+S018,Algometer Pain,BW oval frames,20
+S018,Algometer Pain,Colour frames,20
+S018,Algometer Pain,Colour oval frames,20
+S018,Laser Pain,BW frames,20
+S018,Laser Pain,BW oval frames,20
+S018,Laser Pain,Colour frames,20
+S018,Laser Pain,Colour oval frames,20
+S018,Neutral,BW frames,20
+S018,Neutral,BW oval frames,20
+S018,Neutral,Colour frames,20
+S018,Neutral,Colour oval frames,20
+S018,Posed Pain,BW frames,20
+S018,Posed Pain,BW oval frames,20
+S018,Posed Pain,Colour frames,20
+S018,Posed Pain,Colour oval frames,20
+S019,Algometer Pain,Algometer Pain-1,0
+S019,Algometer Pain,Algometer Pain-2,0
+S019,Laser Pain,BW frames,20
+S019,Laser Pain,BW oval frames,20
+S019,Laser Pain,Colour frames,20
+S019,Laser Pain,Colour oval frames,20
+S019,Neutral,BW frames,20
+S019,Neutral,BW oval frames,20
+S019,Neutral,Colour frames,20
+S019,Neutral,Colour oval frames,20
+S019,Posed Pain,BW frames,20
+S019,Posed Pain,BW oval frames,20
+S019,Posed Pain,Colour frames,20
+S019,Posed Pain,Colour oval frames,20
+S020,Algometer Pain,BW frames,20
+S020,Algometer Pain,BW oval frames,20
+S020,Algometer Pain,Colour frames,20
+S020,Algometer Pain,Colour oval frames,20
+S020,Laser Pain,BW frames,20
+S020,Laser Pain,BW oval frames,20
+S020,Laser Pain,Colour frames,20
+S020,Laser Pain,Colour oval frames,20
+S020,Neutral,BW frames,20
+S020,Neutral,BW oval frames,20
+S020,Neutral,Colour frames,20
+S020,Neutral,Colour oval frames,20
+S020,Posed Pain,BW frames,20
+S020,Posed Pain,BW oval frames,20
+S020,Posed Pain,Colour frames,20
+S020,Posed Pain,Colour oval frames,20
+S021,Algometer Pain,BW frames,20
+S021,Algometer Pain,BW oval frames,20
+S021,Algometer Pain,Colour frames,20
+S021,Algometer Pain,Colour oval frames,20
+S021,Laser Pain,BW frames,20
+S021,Laser Pain,BW oval frames,20
+S021,Laser Pain,Colour frames,20
+S021,Laser Pain,Colour oval frames,20
+S021,Neutral,BW frames,20
+S021,Neutral,BW oval frames,20
+S021,Neutral,Colour frames,20
+S021,Neutral,Colour oval frames,20
+S021,Posed Pain,BW frames,20
+S021,Posed Pain,BW oval frames,20
+S021,Posed Pain,Colour frames,20
+S021,Posed Pain,Colour oval frames,20
+S022,Algometer Pain,BW frames,20
+S022,Algometer Pain,BW oval frames,20
+S022,Algometer Pain,Colour frames,20
+S022,Algometer Pain,Colour oval frames,20
+S022,Laser Pain,BW frames,20
+S022,Laser Pain,BW oval frames,20
+S022,Laser Pain,Colour frames,20
+S022,Laser Pain,Colour oval frames,20
+S022,Neutral,BW frames,20
+S022,Neutral,BW oval frames,20
+S022,Neutral,Colour frames,20
+S022,Neutral,Colour oval frames,20
+S022,Posed Pain,BW frames,20
+S022,Posed Pain,BW oval frames,20
+S022,Posed Pain,Colour frames,20
+S022,Posed Pain,Colour oval frames,20
+S023,Algometer Pain,BW frames,20
+S023,Algometer Pain,BW oval frames,20
+S023,Algometer Pain,Colour frames,20
+S023,Algometer Pain,Colour oval frames,20
+S023,Laser Pain,BW frames,20
+S023,Laser Pain,BW oval frames,20
+S023,Laser Pain,Colour frames,20
+S023,Laser Pain,Colour oval frames,20
+S023,Neutral,BW frames,20
+S023,Neutral,BW oval frames,20
+S023,Neutral,Colour frames,20
+S023,Neutral,Colour oval frames,20
+S023,Posed Pain,BW frames,20
+S023,Posed Pain,BW oval frames,20
+S023,Posed Pain,Colour frames,20
+S023,Posed Pain,Colour oval frames,20
+S024,Algometer Pain,BW frames,20
+S024,Algometer Pain,BW oval frames,20
+S024,Algometer Pain,Colour frames,20
+S024,Algometer Pain,Colour oval frames,20
+S024,Laser Pain,BW frames,20
+S024,Laser Pain,BW oval frames,20
+S024,Laser Pain,Colour frames,20
+S024,Laser Pain,Colour oval frames,20
+S024,Neutral,BW frames,20
+S024,Neutral,BW oval frames,20
+S024,Neutral,Colour frames,20
+S024,Neutral,Colour oval frames,20
+S024,Posed Pain,BW frames,20
+S024,Posed Pain,BW oval frames,20
+S024,Posed Pain,Colour frames,20
+S024,Posed Pain,Colour oval frames,20
+S025,Algometer Pain,BW frames,20
+S025,Algometer Pain,BW oval frames,20
+S025,Algometer Pain,Colour frames,20
+S025,Algometer Pain,Colour oval frames,20
+S025,Laser Pain,BW frames,20
+S025,Laser Pain,BW oval frames,20
+S025,Laser Pain,Colour frames,20
+S025,Laser Pain,Colour oval frames,20
+S025,Neutral,BW frames,20
+S025,Neutral,BW oval frames,20
+S025,Neutral,Colour frames,20
+S025,Neutral,Colour oval frames,20
+S025,Posed Pain,BW frames,20
+S025,Posed Pain,BW oval frames,20
+S025,Posed Pain,Colour frames,20
+S025,Posed Pain,Colour oval frames,20
+S026,Algometer Pain,BW frames,20
+S026,Algometer Pain,BW oval frames,20
+S026,Algometer Pain,Colour frames,20
+S026,Algometer Pain,Colour oval frames,20
+S026,Laser Pain,BW frames,20
+S026,Laser Pain,BW oval frames,20
+S026,Laser Pain,Colour frames,20
+S026,Laser Pain,Colour oval frames,20
+S026,Neutral,BW frames,20
+S026,Neutral,BW oval frames,20
+S026,Neutral,Colour frames,20
+S026,Neutral,Colour oval frames,20
+S026,Posed Pain,BW frames,20
+S026,Posed Pain,BW oval frames,20
+S026,Posed Pain,Colour frames,20
+S026,Posed Pain,Colour oval frames,20
+S027,Algometer Pain,BW frames,20
+S027,Algometer Pain,BW oval frames,20
+S027,Algometer Pain,Colour frames,20
+S027,Algometer Pain,Colour oval frames,20
+S027,Laser Pain,BW frames,20
+S027,Laser Pain,BW oval frames,20
+S027,Laser Pain,Colour frames,20
+S027,Laser Pain,Colour oval frames,20
+S027,Neutral,BW frames,20
+S027,Neutral,BW oval frames,20
+S027,Neutral,Colour frames,20
+S027,Neutral,Colour oval frames,20
+S027,Posed Pain,BW frames,20
+S027,Posed Pain,BW oval frames,20
+S027,Posed Pain,Colour frames,20
+S027,Posed Pain,Colour oval frames,20
+S028,Algometer Pain,BW frames,20
+S028,Algometer Pain,BW oval frames,20
+S028,Algometer Pain,Colour frames,20
+S028,Algometer Pain,Colour oval frames,20
+S028,Laser Pain,BW frames,20
+S028,Laser Pain,BW oval frames,20
+S028,Laser Pain,Colour frames,20
+S028,Laser Pain,Colour oval frames,20
+S028,Neutral,BW frames,20
+S028,Neutral,BW oval frames,20
+S028,Neutral,Colour frames,20
+S028,Neutral,Colour oval frames,20
+S028,Posed Pain,BW frames,20
+S028,Posed Pain,BW oval frames,20
+S028,Posed Pain,Colour frames,20
+S028,Posed Pain,Colour oval frames,20
+S029,Algometer Pain,BW frames,20
+S029,Algometer Pain,BW oval frames,20
+S029,Algometer Pain,Colour frames,20
+S029,Algometer Pain,Colour oval frames,20
+S029,Laser Pain,Laser Pain-1,0
+S029,Laser Pain,Laser Pain-2,0
+S029,Neutral,BW frames,20
+S029,Neutral,BW oval frames,20
+S029,Neutral,Colour frames,20
+S029,Neutral,Colour oval frames,20
+S029,Posed Pain,BW frames,20
+S029,Posed Pain,BW oval frames,20
+S029,Posed Pain,Colour frames,20
+S029,Posed Pain,Colour oval frames,20
+S030,Algometer Pain,BW frames,20
+S030,Algometer Pain,BW oval frames,20
+S030,Algometer Pain,Colour frames,20
+S030,Algometer Pain,Colour oval frames,20
+S030,Laser Pain,BW frames,20
+S030,Laser Pain,BW oval frames,20
+S030,Laser Pain,Colour frames,20
+S030,Laser Pain,Colour oval frames,20
+S030,Neutral,BW frames,20
+S030,Neutral,BW oval frames,20
+S030,Neutral,Colour frames,20
+S030,Neutral,Colour oval frames,20
+S030,Posed Pain,BW frames,20
+S030,Posed Pain,BW oval frames,20
+S030,Posed Pain,Colour frames,20
+S030,Posed Pain,Colour oval frames,20
+S031,Algometer Pain,BW frames,20
+S031,Algometer Pain,BW oval frames,20
+S031,Algometer Pain,Colour frames,20
+S031,Algometer Pain,Colour oval frames,20
+S031,Laser Pain,BW frames,20
+S031,Laser Pain,BW oval frames,20
+S031,Laser Pain,Colour frames,20
+S031,Laser Pain,Colour oval frames,20
+S031,Neutral,BW frames,20
+S031,Neutral,BW oval frames,20
+S031,Neutral,Colour frames,20
+S031,Neutral,Colour oval frames,20
+S031,Posed Pain,BW frames,20
+S031,Posed Pain,BW oval frames,20
+S031,Posed Pain,Colour frames,20
+S031,Posed Pain,Colour oval frames,20
+S032,Algometer Pain,Algometer Pain-1,0
+S032,Algometer Pain,Algometer Pain-2,0
+S032,Laser Pain,BW frames,20
+S032,Laser Pain,BW oval frames,20
+S032,Laser Pain,Colour frames,20
+S032,Laser Pain,Colour oval frames,20
+S032,Neutral,BW frames,20
+S032,Neutral,BW oval frames,20
+S032,Neutral,Colour frames,20
+S032,Neutral,Colour oval frames,20
+S032,Posed Pain,BW frames,20
+S032,Posed Pain,BW oval frames,20
+S032,Posed Pain,Colour frames,20
+S032,Posed Pain,Colour oval frames,20
+S033,Algometer Pain,BW frames,20
+S033,Algometer Pain,BW oval frames,20
+S033,Algometer Pain,Colour frames,20
+S033,Algometer Pain,Colour oval frames,20
+S033,Laser Pain,BW frames,20
+S033,Laser Pain,BW oval frames,20
+S033,Laser Pain,Colour frames,20
+S033,Laser Pain,Colour oval frames,20
+S033,Neutral,BW frames,20
+S033,Neutral,BW oval frames,20
+S033,Neutral,Colour frames,20
+S033,Neutral,Colour oval frames,20
+S033,Posed Pain,BW frames,20
+S033,Posed Pain,BW oval frames,20
+S033,Posed Pain,Colour frames,20
+S033,Posed Pain,Colour oval frames,20
+S034,Algometer Pain,BW frames,20
+S034,Algometer Pain,BW oval frames,20
+S034,Algometer Pain,Colour frames,20
+S034,Algometer Pain,Colour oval frames,20
+S034,Laser Pain,BW frames,20
+S034,Laser Pain,BW oval frames,20
+S034,Laser Pain,Colour frames,20
+S034,Laser Pain,Colour oval frames,20
+S034,Neutral,BW frames,20
+S034,Neutral,BW oval frames,20
+S034,Neutral,Colour frames,20
+S034,Neutral,Colour oval frames,20
+S034,Posed Pain,BW frames,20
+S034,Posed Pain,BW oval frames,20
+S034,Posed Pain,Colour frames,20
+S034,Posed Pain,Colour oval frames,20
+S035,Algometer Pain,BW frames,20
+S035,Algometer Pain,BW oval frames,20
+S035,Algometer Pain,Colour frames,20
+S035,Algometer Pain,Colour oval frames,20
+S035,Laser Pain,BW frames,20
+S035,Laser Pain,BW oval frames,20
+S035,Laser Pain,Colour frames,20
+S035,Laser Pain,Colour oval frames,20
+S035,Neutral,BW frames,20
+S035,Neutral,BW oval frames,20
+S035,Neutral,Colour frames,20
+S035,Neutral,Colour oval frames,20
+S035,Posed Pain,BW frames,20
+S035,Posed Pain,BW oval frames,20
+S035,Posed Pain,Colour frames,20
+S035,Posed Pain,Colour oval frames,20
+S036,Algometer Pain,BW frames,20
+S036,Algometer Pain,BW oval frames,20
+S036,Algometer Pain,Colour frames,20
+S036,Algometer Pain,Colour oval frames,20
+S036,Laser Pain,BW frames,20
+S036,Laser Pain,BW oval frames,20
+S036,Laser Pain,Colour frames,20
+S036,Laser Pain,Colour oval frames,20
+S036,Neutral,BW frames,20
+S036,Neutral,BW oval frames,20
+S036,Neutral,Colour frames,20
+S036,Neutral,Colour oval frames,20
+S036,Posed Pain,BW frames,20
+S036,Posed Pain,BW oval frames,20
+S036,Posed Pain,Colour frames,20
+S036,Posed Pain,Colour oval frames,20
+S037,Algometer Pain,BW frames,20
+S037,Algometer Pain,BW oval frames,20
+S037,Algometer Pain,Colour frames,20
+S037,Algometer Pain,Colour oval frames,20
+S037,Laser Pain,BW frames,20
+S037,Laser Pain,BW oval frames,20
+S037,Laser Pain,Colour frames,20
+S037,Laser Pain,Colour oval frames,20
+S037,Neutral,BW frames,20
+S037,Neutral,BW oval frames,20
+S037,Neutral,Colour frames,20
+S037,Neutral,Colour oval frames,20
+S037,Posed Pain,BW frames,20
+S037,Posed Pain,BW oval frames,20
+S037,Posed Pain,Colour frames,20
+S037,Posed Pain,Colour oval frames,20
+S038,Algometer Pain,BW frames,20
+S038,Algometer Pain,BW oval frames,20
+S038,Algometer Pain,Colour frames,20
+S038,Algometer Pain,Colour oval frames,20
+S038,Laser Pain,BW frames,20
+S038,Laser Pain,BW oval frames,20
+S038,Laser Pain,Colour frames,20
+S038,Laser Pain,Colour oval frames,20
+S038,Neutral,BW frames,20
+S038,Neutral,BW oval frames,20
+S038,Neutral,Colour frames,20
+S038,Neutral,Colour oval frames,20
+S038,Posed Pain,BW frames,20
+S038,Posed Pain,BW oval frames,20
+S038,Posed Pain,Colour frames,20
+S038,Posed Pain,Colour oval frames,20
+S039,Algometer Pain,BW frames,20
+S039,Algometer Pain,BW oval frames,20
+S039,Algometer Pain,Colour frames,20
+S039,Algometer Pain,Colour oval frames,20
+S039,Laser Pain,BW frames,20
+S039,Laser Pain,BW oval frames,20
+S039,Laser Pain,Colour frames,20
+S039,Laser Pain,Colour oval frames,20
+S039,Neutral,BW frames,20
+S039,Neutral,BW oval frames,20
+S039,Neutral,Colour frames,20
+S039,Neutral,Colour oval frames,20
+S039,Posed Pain,BW frames,20
+S039,Posed Pain,BW oval frames,20
+S039,Posed Pain,Colour frames,20
+S039,Posed Pain,Colour oval frames,20
+S040,Algometer Pain,BW frames,20
+S040,Algometer Pain,BW oval frames,20
+S040,Algometer Pain,Colour frames,20
+S040,Algometer Pain,Colour oval frames,20
+S040,Laser Pain,BW frames,20
+S040,Laser Pain,BW oval frames,20
+S040,Laser Pain,Colour frames,20
+S040,Laser Pain,Colour oval frames,20
+S040,Neutral,BW frames,20
+S040,Neutral,BW oval frames,20
+S040,Neutral,Colour frames,20
+S040,Neutral,Colour oval frames,20
+S040,Posed Pain,BW frames,20
+S040,Posed Pain,BW oval frames,20
+S040,Posed Pain,Colour frames,20
+S040,Posed Pain,Colour oval frames,20
+S041,Algometer Pain,BW frames,20
+S041,Algometer Pain,BW oval frames,20
+S041,Algometer Pain,Colour frames,20
+S041,Algometer Pain,Colour oval frames,20
+S041,Laser Pain,BW frames,20
+S041,Laser Pain,BW oval frames,20
+S041,Laser Pain,Colour frames,20
+S041,Laser Pain,Colour oval frames,20
+S041,Neutral,BW frames,20
+S041,Neutral,BW oval frames,20
+S041,Neutral,Colour frames,20
+S041,Neutral,Colour oval frames,20
+S041,Posed Pain,BW frames,20
+S041,Posed Pain,BW oval frames,20
+S041,Posed Pain,Colour frames,20
+S041,Posed Pain,Colour oval frames,20
+S042,Algometer Pain,BW frames,20
+S042,Algometer Pain,BW oval frames,20
+S042,Algometer Pain,Colour frames,20
+S042,Algometer Pain,Colour oval frames,20
+S042,Laser Pain,BW frames,20
+S042,Laser Pain,BW oval frames,20
+S042,Laser Pain,Colour frames,20
+S042,Laser Pain,Colour oval frames,20
+S042,Neutral,BW frames,20
+S042,Neutral,BW oval frames,20
+S042,Neutral,Colour frames,20
+S042,Neutral,Colour oval frames,20
+S042,Posed Pain,BW frames,20
+S042,Posed Pain,BW oval frames,20
+S042,Posed Pain,Colour frames,20
+S042,Posed Pain,Colour oval frames,20
+S043,Algometer Pain,BW frames,20
+S043,Algometer Pain,BW oval frames,20
+S043,Algometer Pain,Colour frames,20
+S043,Algometer Pain,Colour oval frames,20
+S043,Laser Pain,BW frames,20
+S043,Laser Pain,BW oval frames,20
+S043,Laser Pain,Colour frames,20
+S043,Laser Pain,Colour oval frames,20
+S043,Neutral,BW frames,20
+S043,Neutral,BW oval frames,20
+S043,Neutral,Colour frames,20
+S043,Neutral,Colour oval frames,20
+S043,Posed Pain,BW frames,20
+S043,Posed Pain,BW oval frames,20
+S043,Posed Pain,Colour frames,20
+S043,Posed Pain,Colour oval frames,20
+S044,Algometer Pain,BW frames,20
+S044,Algometer Pain,BW oval frames,20
+S044,Algometer Pain,Colour frames,20
+S044,Algometer Pain,Colour oval frames,20
+S044,Laser Pain,BW frames,20
+S044,Laser Pain,BW oval frames,20
+S044,Laser Pain,Colour frames,20
+S044,Laser Pain,Colour oval frames,20
+S044,Neutral,BW frames,20
+S044,Neutral,BW oval frames,20
+S044,Neutral,Colour frames,20
+S044,Neutral,Colour oval frames,20
+S044,Posed Pain,BW frames,20
+S044,Posed Pain,BW oval frames,20
+S044,Posed Pain,Colour frames,20
+S044,Posed Pain,Colour oval frames,20
+S045,Algometer Pain,BW frames,20
+S045,Algometer Pain,BW oval frames,20
+S045,Algometer Pain,Colour frames,20
+S045,Algometer Pain,Colour oval frames,20
+S045,Laser Pain,BW frames,20
+S045,Laser Pain,BW oval frames,20
+S045,Laser Pain,Colour frames,20
+S045,Laser Pain,Colour oval frames,20
+S045,Neutral,BW frames,20
+S045,Neutral,BW oval frames,20
+S045,Neutral,Colour frames,20
+S045,Neutral,Colour oval frames,20
+S045,Posed Pain,BW frames,20
+S045,Posed Pain,BW oval frames,20
+S045,Posed Pain,Colour frames,20
+S045,Posed Pain,Colour oval frames,20
+S046,Algometer Pain,BW frames,20
+S046,Algometer Pain,BW oval frames,20
+S046,Algometer Pain,Colour frames,20
+S046,Algometer Pain,Colour oval frames,20
+S046,Laser Pain,BW frames,20
+S046,Laser Pain,BW oval frames,20
+S046,Laser Pain,Colour frames,20
+S046,Laser Pain,Colour oval frames,20
+S046,Neutral,BW frames,20
+S046,Neutral,BW oval frames,20
+S046,Neutral,Colour frames,20
+S046,Neutral,Colour oval frames,20
+S046,Posed Pain,BW frames,20
+S046,Posed Pain,BW oval frames,20
+S046,Posed Pain,Colour frames,20
+S046,Posed Pain,Colour oval frames,20
+S047,Algometer Pain,BW frames,20
+S047,Algometer Pain,BW oval frames,20
+S047,Algometer Pain,Colour frames,20
+S047,Algometer Pain,Colour oval frames,20
+S047,Laser Pain,BW frames,20
+S047,Laser Pain,BW oval frames,20
+S047,Laser Pain,Colour frames,20
+S047,Laser Pain,Colour oval frames,20
+S047,Neutral,BW frames,20
+S047,Neutral,BW oval frames,20
+S047,Neutral,Colour frames,20
+S047,Neutral,Colour oval frames,20
+S047,Posed Pain,BW frames,20
+S047,Posed Pain,BW oval frames,20
+S047,Posed Pain,Colour frames,20
+S047,Posed Pain,Colour oval frames,20
+S048,Algometer Pain,BW frames,20
+S048,Algometer Pain,BW oval frames,20
+S048,Algometer Pain,Colour frames,20
+S048,Algometer Pain,Colour oval frames,20
+S048,Laser Pain,BW frames,20
+S048,Laser Pain,BW oval frames,20
+S048,Laser Pain,Colour frames,20
+S048,Laser Pain,Colour oval frames,20
+S048,Neutral,BW frames,20
+S048,Neutral,BW oval frames,20
+S048,Neutral,Colour frames,20
+S048,Neutral,Colour oval frames,20
+S048,Posed Pain,BW frames,20
+S048,Posed Pain,BW oval frames,20
+S048,Posed Pain,Colour frames,20
+S048,Posed Pain,Colour oval frames,20
+S049,Algometer Pain,BW frames,20
+S049,Algometer Pain,BW oval frames,20
+S049,Algometer Pain,Colour frames,20
+S049,Algometer Pain,Colour oval frames,20
+S049,Laser Pain,BW frames,20
+S049,Laser Pain,BW oval frames,20
+S049,Laser Pain,Colour frames,20
+S049,Laser Pain,Colour oval frames,20
+S049,Neutral,BW frames,20
+S049,Neutral,BW oval frames,20
+S049,Neutral,Colour frames,20
+S049,Neutral,Colour oval frames,20
+S049,Posed Pain,BW frames,20
+S049,Posed Pain,BW oval frames,20
+S049,Posed Pain,Colour frames,20
+S049,Posed Pain,Colour oval frames,20
+S050,Algometer Pain,BW frames,20
+S050,Algometer Pain,BW oval frames,20
+S050,Algometer Pain,Colour frames,20
+S050,Algometer Pain,Colour oval frames,20
+S050,Laser Pain,BW frames,20
+S050,Laser Pain,BW oval frames,20
+S050,Laser Pain,Colour frames,20
+S050,Laser Pain,Colour oval frames,20
+S050,Neutral,BW frames,20
+S050,Neutral,BW oval frames,20
+S050,Neutral,Colour frames,20
+S050,Neutral,Colour oval frames,20
+S050,Posed Pain,BW frames,20
+S050,Posed Pain,BW oval frames,20
+S050,Posed Pain,Colour frames,20
+S050,Posed Pain,Colour oval frames,20
+S051,Algometer Pain,BW frames,20
+S051,Algometer Pain,BW oval frames,20
+S051,Algometer Pain,Colour frames,20
+S051,Algometer Pain,Colour oval frames,20
+S051,Laser Pain,BW frames,20
+S051,Laser Pain,BW oval frames,20
+S051,Laser Pain,Colour frames,20
+S051,Laser Pain,Colour oval frames,20
+S051,Neutral,BW frames,20
+S051,Neutral,BW oval frames,20
+S051,Neutral,Colour frames,20
+S051,Neutral,Colour oval frames,20
+S051,Posed Pain,BW frames,20
+S051,Posed Pain,BW oval frames,20
+S051,Posed Pain,Colour frames,20
+S051,Posed Pain,Colour oval frames,20
+S052,Algometer Pain,Algometer Pain-1,0
+S052,Algometer Pain,Algometer Pain-2,0
+S052,Laser Pain,BW frames,20
+S052,Laser Pain,BW oval frames,20
+S052,Laser Pain,Colour frames,20
+S052,Laser Pain,Colour oval frames,20
+S052,Neutral,BW frames,20
+S052,Neutral,BW oval frames,20
+S052,Neutral,Colour frames,20
+S052,Neutral,Colour oval frames,20
+S052,Posed Pain,Posed Pain-1,0
+S052,Posed Pain,Posed Pain-2,0
+S053,Algometer Pain,BW frames,20
+S053,Algometer Pain,BW oval frames,20
+S053,Algometer Pain,Colour frames,20
+S053,Algometer Pain,Colour oval frames,20
+S053,Laser Pain,BW frames,20
+S053,Laser Pain,BW oval frames,20
+S053,Laser Pain,Colour frames,20
+S053,Laser Pain,Colour oval frames,20
+S053,Neutral,BW frames,20
+S053,Neutral,BW oval frames,20
+S053,Neutral,Colour frames,20
+S053,Neutral,Colour oval frames,20
+S053,Posed Pain,BW frames,20
+S053,Posed Pain,BW oval frames,20
+S053,Posed Pain,Colour frames,20
+S053,Posed Pain,Colour oval frames,20
+S054,Algometer Pain,BW frames,20
+S054,Algometer Pain,BW oval frames,20
+S054,Algometer Pain,Colour frames,20
+S054,Algometer Pain,Colour oval frames,20
+S054,Laser Pain,BW frames,20
+S054,Laser Pain,BW oval frames,20
+S054,Laser Pain,Colour frames,20
+S054,Laser Pain,Colour oval frames,20
+S054,Neutral,BW frames,20
+S054,Neutral,BW oval frames,20
+S054,Neutral,Colour frames,20
+S054,Neutral,Colour oval frames,20
+S054,Posed Pain,BW frames,20
+S054,Posed Pain,BW oval frames,20
+S054,Posed Pain,Colour frames,20
+S054,Posed Pain,Colour oval frames,20
+S055,Algometer Pain,BW frames,20
+S055,Algometer Pain,BW oval frames,20
+S055,Algometer Pain,Colour frames,20
+S055,Algometer Pain,Colour oval frames,20
+S055,Laser Pain,BW frames,20
+S055,Laser Pain,BW oval frames,20
+S055,Laser Pain,Colour frames,20
+S055,Laser Pain,Colour oval frames,20
+S055,Neutral,BW frames,20
+S055,Neutral,BW oval frames,20
+S055,Neutral,Colour frames,20
+S055,Neutral,Colour oval frames,20
+S055,Posed Pain,BW frames,20
+S055,Posed Pain,BW oval frames,20
+S055,Posed Pain,Colour frames,20
+S055,Posed Pain,Colour oval frames,20
+S056,Algometer Pain,BW frames,20
+S056,Algometer Pain,BW oval frames,20
+S056,Algometer Pain,Colour frames,20
+S056,Algometer Pain,Colour oval frames,20
+S056,Laser Pain,BW frames,20
+S056,Laser Pain,BW oval frames,20
+S056,Laser Pain,Colour frames,20
+S056,Laser Pain,Colour oval frames,20
+S056,Neutral,BW frames,20
+S056,Neutral,BW oval frames,20
+S056,Neutral,Colour frames,20
+S056,Neutral,Colour oval frames,20
+S056,Posed Pain,BW frames,20
+S056,Posed Pain,BW oval frames,20
+S056,Posed Pain,Colour frames,20
+S056,Posed Pain,Colour oval frames,20
+S057,Algometer Pain,BW frames,20
+S057,Algometer Pain,BW oval frames,20
+S057,Algometer Pain,Colour frames,20
+S057,Algometer Pain,Colour oval frames,20
+S057,Laser Pain,BW frames,20
+S057,Laser Pain,BW oval frames,20
+S057,Laser Pain,Colour frames,20
+S057,Laser Pain,Colour oval frames,20
+S057,Neutral,BW frames,20
+S057,Neutral,BW oval frames,20
+S057,Neutral,Colour frames,20
+S057,Neutral,Colour oval frames,20
+S057,Posed Pain,BW frames,20
+S057,Posed Pain,BW oval frames,20
+S057,Posed Pain,Colour frames,20
+S057,Posed Pain,Colour oval frames,20
+S058,Algometer Pain,BW frames,20
+S058,Algometer Pain,BW oval frames,20
+S058,Algometer Pain,Colour frames,20
+S058,Algometer Pain,Colour oval frames,20
+S058,Laser Pain,BW frames,20
+S058,Laser Pain,BW oval frames,20
+S058,Laser Pain,Colour frames,20
+S058,Laser Pain,Colour oval frames,20
+S058,Neutral,BW frames,20
+S058,Neutral,BW oval frames,20
+S058,Neutral,Colour frames,20
+S058,Neutral,Colour oval frames,20
+S058,Posed Pain,BW frames,20
+S058,Posed Pain,BW oval frames,20
+S058,Posed Pain,Colour frames,20
+S058,Posed Pain,Colour oval frames,20
+S059,Algometer Pain,BW frames,20
+S059,Algometer Pain,BW oval frames,20
+S059,Algometer Pain,Colour frames,20
+S059,Algometer Pain,Colour oval frames,20
+S059,Laser Pain,BW frames,20
+S059,Laser Pain,BW oval frames,20
+S059,Laser Pain,Colour frames,20
+S059,Laser Pain,Colour oval frames,20
+S059,Neutral,BW frames,20
+S059,Neutral,BW oval frames,20
+S059,Neutral,Colour frames,20
+S059,Neutral,Colour oval frames,20
+S059,Posed Pain,BW frames,20
+S059,Posed Pain,BW oval frames,20
+S059,Posed Pain,Colour frames,20
+S059,Posed Pain,Colour oval frames,20
+S060,Algometer Pain,BW frames,20
+S060,Algometer Pain,BW oval frames,20
+S060,Algometer Pain,Colour frames,20
+S060,Algometer Pain,Colour oval frames,20
+S060,Laser Pain,BW frames,20
+S060,Laser Pain,BW oval frames,20
+S060,Laser Pain,Colour frames,20
+S060,Laser Pain,Colour oval frames,20
+S060,Neutral,BW frames,20
+S060,Neutral,BW oval frames,20
+S060,Neutral,Colour frames,20
+S060,Neutral,Colour oval frames,20
+S060,Posed Pain,BW frames,20
+S060,Posed Pain,BW oval frames,20
+S060,Posed Pain,Colour frames,20
+S060,Posed Pain,Colour oval frames,20
+S061,Algometer Pain,BW frames,20
+S061,Algometer Pain,BW oval frames,20
+S061,Algometer Pain,Colour frames,20
+S061,Algometer Pain,Colour oval frames,20
+S061,Laser Pain,BW frames,20
+S061,Laser Pain,BW oval frames,20
+S061,Laser Pain,Colour frames,20
+S061,Laser Pain,Colour oval frames,20
+S061,Neutral,BW frames,20
+S061,Neutral,BW oval frames,20
+S061,Neutral,Colour frames,20
+S061,Neutral,Colour oval frames,20
+S061,Posed Pain,BW frames,20
+S061,Posed Pain,BW oval frames,20
+S061,Posed Pain,Colour frames,20
+S061,Posed Pain,Colour oval frames,20
+S062,Algometer Pain,BW frames,20
+S062,Algometer Pain,BW oval frames,20
+S062,Algometer Pain,Colour frames,20
+S062,Algometer Pain,Colour oval frames,20
+S062,Laser Pain,BW frames,20
+S062,Laser Pain,BW oval frames,20
+S062,Laser Pain,Colour frames,20
+S062,Laser Pain,Colour oval frames,20
+S062,Neutral,BW frames,20
+S062,Neutral,BW oval frames,20
+S062,Neutral,Colour frames,20
+S062,Neutral,Colour oval frames,20
+S062,Posed Pain,BW frames,20
+S062,Posed Pain,BW oval frames,20
+S062,Posed Pain,Colour frames,20
+S062,Posed Pain,Colour oval frames,20
+S063,Algometer Pain,BW frames,20
+S063,Algometer Pain,BW oval frames,20
+S063,Algometer Pain,Colour frames,20
+S063,Algometer Pain,Colour oval frames,20
+S063,Laser Pain,BW frames,20
+S063,Laser Pain,BW oval frames,20
+S063,Laser Pain,Colour frames,20
+S063,Laser Pain,Colour oval frames,20
+S063,Neutral,BW frames,20
+S063,Neutral,BW oval frames,20
+S063,Neutral,Colour frames,20
+S063,Neutral,Colour oval frames,20
+S063,Posed Pain,BW frames,20
+S063,Posed Pain,BW oval frames,20
+S063,Posed Pain,Colour frames,20
+S063,Posed Pain,Colour oval frames,20
+S064,Algometer Pain,BW frames,20
+S064,Algometer Pain,BW oval frames,20
+S064,Algometer Pain,Colour frames,20
+S064,Algometer Pain,Colour oval frames,20
+S064,Laser Pain,BW frames,20
+S064,Laser Pain,BW oval frames,20
+S064,Laser Pain,Colour frames,20
+S064,Laser Pain,Colour oval frames,20
+S064,Neutral,BW frames,20
+S064,Neutral,BW oval frames,20
+S064,Neutral,Colour frames,20
+S064,Neutral,Colour oval frames,20
+S064,Posed Pain,BW frames,20
+S064,Posed Pain,BW oval frames,20
+S064,Posed Pain,Colour frames,20
+S064,Posed Pain,Colour oval frames,20
+S065,Algometer Pain,BW frames,20
+S065,Algometer Pain,BW oval frames,20
+S065,Algometer Pain,Colour frames,20
+S065,Algometer Pain,Colour oval frames,20
+S065,Laser Pain,BW frames,20
+S065,Laser Pain,BW oval frames,20
+S065,Laser Pain,Colour frames,20
+S065,Laser Pain,Colour oval frames,20
+S065,Neutral,BW frames,20
+S065,Neutral,BW oval frames,20
+S065,Neutral,Colour frames,20
+S065,Neutral,Colour oval frames,20
+S065,Posed Pain,BW frames,20
+S065,Posed Pain,BW oval frames,20
+S065,Posed Pain,Colour frames,20
+S065,Posed Pain,Colour oval frames,20
+S066,Algometer Pain,BW frames,20
+S066,Algometer Pain,BW oval frames,20
+S066,Algometer Pain,Colour frames,20
+S066,Algometer Pain,Colour oval frames,20
+S066,Laser Pain,BW frames,20
+S066,Laser Pain,BW oval frames,20
+S066,Laser Pain,Colour frames,20
+S066,Laser Pain,Colour oval frames,20
+S066,Neutral,BW frames,20
+S066,Neutral,BW oval frames,20
+S066,Neutral,Colour frames,20
+S066,Neutral,Colour oval frames,20
+S066,Posed Pain,BW frames,20
+S066,Posed Pain,BW oval frames,20
+S066,Posed Pain,Colour frames,20
+S066,Posed Pain,Colour oval frames,20
+S067,Algometer Pain,BW frames,20
+S067,Algometer Pain,BW oval frames,20
+S067,Algometer Pain,Colour frames,20
+S067,Algometer Pain,Colour oval frames,20
+S067,Laser Pain,BW frames,20
+S067,Laser Pain,BW oval frames,20
+S067,Laser Pain,Colour frames,20
+S067,Laser Pain,Colour oval frames,20
+S067,Neutral,BW frames,20
+S067,Neutral,BW oval frames,20
+S067,Neutral,Colour frames,20
+S067,Neutral,Colour oval frames,20
+S067,Posed Pain,BW frames,20
+S067,Posed Pain,BW oval frames,20
+S067,Posed Pain,Colour frames,20
+S067,Posed Pain,Colour oval frames,20
+S068,Algometer Pain,BW frames,20
+S068,Algometer Pain,BW oval frames,20
+S068,Algometer Pain,Colour frames,20
+S068,Algometer Pain,Colour oval frames,20
+S068,Laser Pain,BW frames,20
+S068,Laser Pain,BW oval frames,20
+S068,Laser Pain,Colour frames,20
+S068,Laser Pain,Colour oval frames,20
+S068,Neutral,BW frames,20
+S068,Neutral,BW oval frames,20
+S068,Neutral,Colour frames,20
+S068,Neutral,Colour oval frames,20
+S068,Posed Pain,BW frames,20
+S068,Posed Pain,BW oval frames,20
+S068,Posed Pain,Colour frames,20
+S068,Posed Pain,Colour oval frames,20
