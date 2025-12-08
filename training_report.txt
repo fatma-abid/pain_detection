@@ -1,0 +1,82 @@
+======================================================================
+RAPPORT D'ENTRAÎNEMENT - DÉTECTION DE DOULEUR
+======================================================================
+
+Date: 2025-12-07 14:35:39
+
+1. CONFIGURATION
+----------------------------------------------------------------------
+Dataset: pain_features_complete.csv
+Total images: 5320
+Training set: 4256
+Test set: 1064
+
+2. RÉSULTATS PAR MODÈLE
+----------------------------------------------------------------------
+
+SVM (Linear):
+  Accuracy:  0.5244
+  Precision: 0.5063
+  Recall:    0.5244
+  F1-Score:  0.4978
+  CV Score:  0.5193 ± 0.0086
+
+SVM (RBF):
+  Accuracy:  0.7227
+  Precision: 0.7274
+  Recall:    0.7227
+  F1-Score:  0.7197
+  CV Score:  0.7242 ± 0.0149
+
+Random Forest:
+  Accuracy:  0.9577
+  Precision: 0.9578
+  Recall:    0.9577
+  F1-Score:  0.9576
+  CV Score:  0.9483 ± 0.0042
+
+Gradient Boosting:
+  Accuracy:  0.8045
+  Precision: 0.8043
+  Recall:    0.8045
+  F1-Score:  0.8023
+  CV Score:  0.7935 ± 0.0174
+
+Neural Network:
+  Accuracy:  0.9220
+  Precision: 0.9223
+  Recall:    0.9220
+  F1-Score:  0.9220
+  CV Score:  0.8992 ± 0.0098
+
+KNN:
+  Accuracy:  0.9380
+  Precision: 0.9386
+  Recall:    0.9380
+  F1-Score:  0.9380
+  CV Score:  0.9086 ± 0.0095
+
+Logistic Regression:
+  Accuracy:  0.5226
+  Precision: 0.5028
+  Recall:    0.5226
+  F1-Score:  0.5001
+  CV Score:  0.5249 ± 0.0071
+
+
+3. MEILLEUR MODÈLE
+----------------------------------------------------------------------
+Modèle: Random Forest
+Accuracy: 0.9577
+
+Rapport de Classification:
+              precision    recall  f1-score   support
+
+     Neutral       0.95      1.00      0.97       272
+       Posed       0.98      0.96      0.97       268
+   Algometer       0.95      0.93      0.94       260
+       Laser       0.95      0.94      0.95       264
+
+    accuracy                           0.96      1064
+   macro avg       0.96      0.96      0.96      1064
+weighted avg       0.96      0.96      0.96      1064

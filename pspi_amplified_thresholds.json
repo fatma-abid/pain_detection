@@ -1,0 +1,20 @@
+{
+  "eyebrow_distance": {
+    "neutral_max": 432.5604414593533,
+    "mild_threshold": 390.1103027500841,
+    "moderate_threshold": 341.8977132593594,
+    "severe_threshold": 323.63118034139
+  },
+  "eye_opening_avg": {
+    "neutral_min": 16.253606782142686,
+    "mild_threshold": 28.825557660123685,
+    "moderate_threshold": 12.70042651628885,
+    "severe_threshold": 8.125383502667882
+  },
+  "mouth_opening": {
+    "neutral_max": 8.576638487223379,
+    "mild_threshold": 3.8830656765913445,
+    "moderate_threshold": 28.54325548972093,
+    "severe_threshold": 53.95466930657646
+  }
+}
